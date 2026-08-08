@@ -1,0 +1,5 @@
+Data = 0100 0001
+
+Start bit = 0
+Data bits = 1 0 0 0 0 0 1 0
+Stop bit  = 1
